@@ -1,7 +1,7 @@
 package es.codeurjc.rest.items;
 
 public class Item {
-
+	private boolean prueba;
 	private long id = -1;
 	private String description;
 	private boolean checked;
